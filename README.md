@@ -81,12 +81,13 @@ const amit = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul9&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=amitpaul9&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpaul9&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" width="49%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpaul9&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpaul9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitpaul9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" width="49%" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -94,7 +95,7 @@ const amit = {
 ## 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpaul9&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpaul9&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" width="40%" alt="Most Used Languages"/>
 </div>
 
 <br/>
