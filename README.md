@@ -81,7 +81,7 @@ const amit = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=amitpaul9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF](https://github-readme-stats.vercel.app/api?username=amitpaul9&show_icons=true&theme=radical)" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpaul9&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" width="49%" alt="GitHub Streak"/>
 </div>
 
@@ -92,13 +92,6 @@ const amit = {
 
 <br/>
 
-## 📈 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpaul9&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" width="40%" alt="Most Used Languages"/>
-</div>
-
-<br/>
 
 ## 💭 Quote of the Day
 
