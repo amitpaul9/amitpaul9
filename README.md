@@ -81,7 +81,7 @@ const amit = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
+  📊Github Starts
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpaul9&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" width="49%" alt="GitHub Streak"/>
 </div>
 
