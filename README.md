@@ -92,10 +92,10 @@ const amit = {
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitpaul9&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpaul9&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" width="40%" alt="Most Used Languages"/>
 </div>
 
 <br/>
