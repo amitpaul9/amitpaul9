@@ -86,9 +86,7 @@ const amit = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpaul9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" width="49%" alt="Top Languages"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitpaul9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" width="49%" alt="Contribution Graph"/>
 </div>
-
 <br/>
-
 
 ## 💭 Quote of the Day
 
